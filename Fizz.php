@@ -56,9 +56,22 @@ class Fizz
 </head>
 <body>
 <?php
+
+/**
+Execution Main part of this programm
+ */
+
+
+
 $test = new Fizz();
 echo $test->isSubmitted();
 $test->doFuzzBuzz();
+
+$n = new Itera(20, 0);
+$y = new Divisor("dfsdfs", 5);
+$x = new Divisor("ozuzpou", 7);
+$m = new Divisor("kfngdgknd", 3);
+$o = new Divisor("uwerer", 9);
 ?>
 
 </body>
