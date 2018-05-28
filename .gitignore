@@ -1,9 +1,2 @@
-#eclipse
-.settings
-.project
-.classpath
-bin/
-
-#java
-*.class
-*.jar
+#phpstorm
+.idea
